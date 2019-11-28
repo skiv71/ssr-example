@@ -19,7 +19,7 @@ var port = 3142
 
 var app = express()
 
-app.use(express.static('assets'))
+app.use(express.static('static'))
 
 app.get('/', async (req, res) => {
     console.log(`${new Date().toISOString()} GET ${req.originalUrl}`)
