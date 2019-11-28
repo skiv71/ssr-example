@@ -1,0 +1,28 @@
+{
+  "name": "ssr-example",
+  "version": "1.0.0",
+  "description": "SSR example",
+  "main": "main.js",
+  "dependencies": {
+    "@smartkx/fs": "^1.0.3",
+    "@smartkx/vue": "^1.0.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skiv71/ssr-example.git"
+  },
+  "keywords": [
+    "SSR"
+  ],
+  "author": "Neil Duffy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skiv71/ssr-example/issues"
+  },
+  "homepage": "https://github.com/skiv71/ssr-example#readme"
+}
